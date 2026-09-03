@@ -222,7 +222,10 @@ End-to-end model lifecycle: data → training → experiment tracking → versio
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=satya-18-w&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=F9A03C&text_color=C9D1D9" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-18-w&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-18-w&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADD8&fire=F9A03C&currStreakLabel=00ADD8" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=satya-18-w&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADD8&fire=F9A03C&currStreakLabel=00ADD8" alt="Streak Stats" />
+<!-- ☝️ Live-fetched on every view. For a guaranteed-fresh, self-hosted version instead, add
+     `.github/workflows/streak.yml` (provided separately) and swap this <img> for
+     `./profile/streak.svg` once the action has run once. -->
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=satya-18-w&theme=tokyo-night&bg_color=0D1117&color=00ADD8&line=F9A03C&point=7C3AED&hide_border=true" alt="Activity Graph"/>
 
@@ -270,10 +273,11 @@ End-to-end model lifecycle: data → training → experiment tracking → versio
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satya-18-w)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajit-samal-b125a02a4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ADD8?style=for-the-badge&logo=vercel&logoColor=white)](https://iamsatya.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ADD8?style=for-the-badge&logo=vercel&logoColor=white)](https://iamsatya.in)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](satyajitsamal198076@gmail.com)
 
-<sub>⚠️ Replace the `#` links above with your actual LinkedIn / X / portfolio / email URLs before publishing.</sub>
+<sub>⚠️ X and Email still point to `#` — send those over (or fill them in yourself) whenever you're ready.</sub>
 
 </div>
 
